@@ -7,7 +7,7 @@ public class test : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-		test_s = "test_333";
+		test_s = "test_222";
 		Debug.Log (test_s);
 	}
 	
