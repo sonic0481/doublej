@@ -7,7 +7,7 @@ public class test2 : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-		test2 = "ttt";
+		test2 = "ttt_clone";
 	}
 	
 	// Update is called once per frame
