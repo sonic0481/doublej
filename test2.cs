@@ -1,14 +1,13 @@
 using UnityEngine;
 using System.Collections;
 
-public class test : MonoBehaviour
+public class test2 : MonoBehaviour
 {
-	private string 		test_s;
+	private string 	test2;
 	// Use this for initialization
 	void Start ()
 	{
-		test_s = "test_222";
-		Debug.Log (test_s);
+		test2 = "ttt";
 	}
 	
 	// Update is called once per frame
